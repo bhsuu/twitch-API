@@ -1,0 +1,24 @@
+.row{
+  padding:30px;
+  
+}
+body{
+  background-color: #9250A2;
+}
+.container{
+  background-color:#E1C8E8;
+  margin-top: 50px;
+  border-radius:2%;
+}
+#streamer{
+  font-size:30px;
+}
+#icon{
+  font-size:30px;
+}
+#status{
+  font-size:30px;
+}
+#game{
+  font-size:30px;
+}
